@@ -1,4 +1,4 @@
-Terms of Service for Passepartout
+# Terms of Service for Passepartout
 1. Data Usage
 By using Passepartout, you agree that all interactions with the bot are restricted to the data within your own Discord server. The bot only accesses the data necessary to function within your server and does not interact with or retrieve data from any other servers you may be a part of.
 The data collected by Passepartout is limited to server-specific information such as server identification and member identification. No personal or sensitive data is stored or shared outside of these specific functionalities.
